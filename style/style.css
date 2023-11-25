@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: red;
+}
+
+canvas{
+    background: gold;
+    background: linear-gradient();
+    display: block;
+    margin: 0 auto;
+}
+
+h1{
+    color : magenta;
+    text-align: center;
+    font-family: monospace;
+    margin: 50px;
+}
